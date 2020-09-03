@@ -1,4 +1,3 @@
-# rhc_cit114_fall2020
 <h1> Sebastian Sabado </h1>
 <h2>CIT 114 FALL 2020 </h2>
 
